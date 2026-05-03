@@ -1,6 +1,6 @@
 # Titanic Passenger Survival Analysis
 
-**Author:** [Your Name]
+**Author:** Abdul Samad Afridi
 
 ## 📊 Dataset Information
 This project analyzes the historical Titanic passenger dataset, which contains demographic and travel information for 891 passengers. The primary goal of this analysis is to clean the raw data, engineer new predictive features, and identify the key factors that influenced passenger survival during the 1912 maritime disaster, preparing the data for Machine Learning classification.
