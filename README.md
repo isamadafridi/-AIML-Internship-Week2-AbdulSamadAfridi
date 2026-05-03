@@ -12,7 +12,6 @@ This project analyzes the historical Titanic passenger dataset, which contains d
 
 ## 📸 Visual Dashboard
 ![Titanic EDA Dashboard](taitanic_dishboard.png)
-*(Note: Ensure `titanic_dashboard.png` is uploaded to the same folder as this README)*
 
 ## 🛠️ Tools & Technologies Used
 * **Python 3:** Core programming language.
