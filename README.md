@@ -11,7 +11,7 @@ This project analyzes the historical Titanic passenger dataset, which contains d
 3. **Family Dynamics Mattered:** Traveling solo or in massive families (5+ members) severely reduced survival odds. Small family units (2-4 members) experienced the highest survival rates, likely due to a balance of mutual support without the logistical burden of coordinating a massive group.
 
 ## 📸 Visual Dashboard
-![Titanic EDA Dashboard](titanic_dashboard.png)
+![Titanic EDA Dashboard](taitanic_dishboard.png)
 *(Note: Ensure `titanic_dashboard.png` is uploaded to the same folder as this README)*
 
 ## 🛠️ Tools & Technologies Used
